@@ -227,11 +227,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // Requested exact Q&A mapped
     const kb = {
         "who are you": "I am Karri Punith's AI Assistant. How can I help you today?",
-        "skills": "Karri Punith specializes in Machine Learning, Data Structures, and Full Stack Development.",
-        "projects": "Punith has built AI Surveillance System (YOLOv8 & OpenCV), MediMind (AI Medical QA Assistant), Freshin10 (Full-stack delivery platform), Library Book Tracker, and Crop Disease Detection.",
-        "technologies": "His stack includes Java, Python, JavaScript, HTML/CSS, React, YOLOv8, OpenCV, BERT, Flan-T5, FastAPI, PyTorch, Streamlit, MySQL, and Git.",
-        "experience": "He worked as a Software Engineer Intern at Yuga Yatra Retail where he built modules and optimized the Freshin10 platform.",
-        "certifications": "He holds 7 major certifications including Oracle AI/Data Platforms, ChatGPT/LLM, Python/Django, Networking, RWD, and DSA with Java.",
+        "skills": "Karri Punith's skills include Java, Python, JavaScript, SQL, HTML5/CSS3, Git & GitHub, VS Code, MySQL, FastAPI, OpenCV, Vercel, Hugging Face, AI/ML, and DSA.",
+        "projects": "Punith has built AI Surveillance System (YOLOv8 & OpenCV), MediMind (AI Medical QA Assistant), Freshin10 (Full-stack delivery platform), and Crop Disease Detection.",
+        "technologies": "His stack includes Java, Python, JavaScript, SQL, HTML5/CSS3, MySQL, FastAPI, OpenCV, Vercel, and Hugging Face.",
+        "experience": "He worked as a Software Engineer Intern at Yuga Yatra Retail (OPC) Pvt. Ltd. (Aug 2025 – Oct 2025) focusing on UI, backend logic, and system reliability for Freshin10.",
+        "certifications": "His credentials include Oracle Certified Agentic AI Foundations Associate, IBM SkillsBuild AI Fundamentals, and Cisco Networking Academy Networking Basics.",
         "resume": "You can view or download his resume from the Hero section at the very top of the page.",
         "contact": "You can reach him at royalpunith778@gmail.com, or through his integrated contact form."
     };
